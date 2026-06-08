@@ -76,5 +76,7 @@ The dataset reveals a healthy, diversified sales pattern. High‑value orders dr
 # Author
 
 **Zulqarnain Talpur**
+
 **Data Analytics Intern**
+
 **DecodeLabs Industrial Training Program.**
