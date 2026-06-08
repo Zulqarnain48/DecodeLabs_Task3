@@ -52,7 +52,7 @@ FROM Product_Data
 GROUP BY month
 ORDER BY revenue DESC;
 
-# Key Findings & Conclusion
+# Key Findings
 
 - Total Orders: 1,201 records.
 
